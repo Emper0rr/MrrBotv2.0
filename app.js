@@ -6,7 +6,7 @@ const Enmap = require("enmap")
 
 const client = new Discord.Client();
 const config = {
-    token: "NjM4NDc5Nzg2OTUxNTczNTU1.Xbi0pQ.xsMLwA1cjXlolH9u4g7U50OOYt4",
+    token: "NjM4NDc5Nzg2OTUxNTczNTU1.Xbi4-w.KGIb-AgkxNTQK2bVfFfg8cvsK2g",
     prefix: "!!",
     owner: "MrrKing"
 }
