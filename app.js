@@ -6,9 +6,9 @@ const Enmap = require("enmap")
 
 const client = new Discord.Client();
 const config = {
-    token: process.env.TOKEN,
-    prefix: process.env.PREFIX,
-    owner: process.env.OWNER
+    token: "NjM4NDc5Nzg2OTUxNTczNTU1.Xbi0pQ.xsMLwA1cjXlolH9u4g7U50OOYt4",
+    prefix: "!!",
+    owner: "MrrKing"
 }
 
 const prefix = config.prefix
