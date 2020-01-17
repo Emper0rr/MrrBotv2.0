@@ -1,0 +1,25 @@
+{
+
+    "name": "mrrbot",
+  
+    "description": "Just a bot",
+  
+    "version": "0.0.1",
+  
+    "main": "app.js",
+  
+    "scripts": {
+  
+      "start": "node app.js"
+  
+    },
+  
+    "dependencies": {
+  
+      "discord.js": "11.5.1",
+  
+      "request": "2.81.0"
+  
+    }
+  
+  }
